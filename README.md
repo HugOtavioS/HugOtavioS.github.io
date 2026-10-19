@@ -9,7 +9,7 @@ O site explica três conceitos de arquitetura de software, publicados em martinf
 | Nome | RA |
 |---|---|
 | Julio César Santos de Morais | 25172737 |
-| _Integrante 2_ | _________ |
+| Hugo Otávio dos Santos de Paula | 25172710 |
 
 As fotos dos integrantes ficam na pasta `fotos/` (`integrante1.jpg` e `integrante2.jpg`).
 
